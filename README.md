@@ -1,5 +1,7 @@
 # Java_assignment
 
+ASSIGNMENT 1
+
 PART I: INPUTS USING DIFFERENT METHODS
 
 Introduction:
