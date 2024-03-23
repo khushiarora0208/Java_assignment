@@ -43,12 +43,3 @@ This Java program allows users to perform basic arithmetic operations on rationa
 ### Note
 - Ensure that the rational numbers entered are in the format a/b where 'a' and 'b' are integers.
 - The program simplifies the rational numbers to their simplest form internally.
-
-### Author
-This program was developed by [Your Name].
-
-### Version History
-- 1.0: Initial release (Date: [Date])
-
-### License
-This project is licensed under the [License Name] License. See the LICENSE file for details.
