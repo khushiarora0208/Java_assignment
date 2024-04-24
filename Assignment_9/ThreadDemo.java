@@ -1,5 +1,5 @@
-package Assignment9;
-
+package org.example;
+// Main class to demonstrate the creation and running of threads
 public class ThreadDemo {
     public static void main(String[] args) {
         // Create two threads
