@@ -1,5 +1,5 @@
-package Assignment9;
-
+package org.example;
+// Defining a custom Runnable class
 class CustomRunnable implements Runnable {
 
     // Declaring a variable to hold the name of the thread
@@ -35,4 +35,3 @@ class CustomRunnable implements Runnable {
         System.out.println(threadName + " is exiting.");
     }
 }
-
