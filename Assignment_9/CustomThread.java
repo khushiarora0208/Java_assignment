@@ -1,5 +1,5 @@
-package Assignment9;
-
+package org.example;
+// Define a custom Thread class by extending Thread
 class CustomThread extends Thread {
 
     // Declare a private variable to hold the name of the thread
